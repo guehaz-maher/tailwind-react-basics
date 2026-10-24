@@ -1,4 +1,4 @@
-# Tailwind CSS & React Beginner Project
+# Tailwind - React Basics app
 
 A modern, responsive mini-project built to practice core **Tailwind CSS** utilities alongside **React**[cite: 9]. 
 
