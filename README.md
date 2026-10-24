@@ -1,16 +1,42 @@
-# React + Vite
+# Tailwind CSS & React Beginner Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive mini-project built to practice core **Tailwind CSS** utilities alongside **React**[cite: 9]. 
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Responsive Navbar:** Fully adaptive layout with a mobile-friendly toggle menu (`useState`)[cite: 9, 13].
+* **Dark / Light Mode:** Dynamic theme switcher to toggle between dark and light appearances[cite: 10, 14].
+* **Flexbox & Grid Layouts:** Clean arrangement of features and components using modern CSS layout tools[cite: 16].
+* **Micro-Interactions:** Smooth hover effects and transitions.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
 
-## Expanding the Oxlint configuration
+* **React.js** (JavaScript Library)
+* **Tailwind CSS** (Utility-first CSS Framework)
+* **Vite** (Build Tool)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📦 Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/guehaz-maher/tailwind-react-basics.git
+   ```
+
+2. Install dependencies:
+  ```bash
+  npm install
+  ```
+3. Run the development server:
+  ```bash
+  npm run dev
+  ```
+---
+## Author:
+- Maher Guehaz | Full-stack developer
+- Github | @maher-guehaz
