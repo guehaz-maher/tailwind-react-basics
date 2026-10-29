@@ -1,12 +1,12 @@
 # Tailwind - React Basics app
 
-A modern, responsive mini-project built to practice core **Tailwind CSS** utilities alongside **React**[cite: 9]. 
+A modern, responsive mini-project built to practice core **Tailwind CSS** utilities alongside **React**. 
 
 ## 🚀 Features
 
-* **Responsive Navbar:** Fully adaptive layout with a mobile-friendly toggle menu (`useState`)[cite: 9, 13].
-* **Dark / Light Mode:** Dynamic theme switcher to toggle between dark and light appearances[cite: 10, 14].
-* **Flexbox & Grid Layouts:** Clean arrangement of features and components using modern CSS layout tools[cite: 16].
+* **Responsive Navbar:** Fully adaptive layout with a mobile-friendly toggle menu (`useState`).
+* **Dark / Light Mode:** Dynamic theme switcher to toggle between dark and light appearances.
+* **Flexbox & Grid Layouts:** Clean arrangement of features and components using modern CSS layout tools.
 * **Micro-Interactions:** Smooth hover effects and transitions.
 
 ---
